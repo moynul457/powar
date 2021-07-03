@@ -4,7 +4,7 @@
 import requests, re , colorama
 colorama.init()
 print("""
-'\n\x1b[1;95m______ ___  ______ _______   _____   \n\x1b[1;91m|  ___/ _ \\ | ___ \\_   _\\ \\ / / _ \\  \n\x1b[1;95m| |_ / /_\\ \\| |_/ / | |  \\ V / /_\\ \\ \n\x1b[1;91m|  _||  _  ||    /  | |   \\ /|  _  | \n\x1b[1;95m| |  | | | || |\\ \\ _| |_  | || | | | \n\x1b[1;91m\\_|  \\_| |_/\\_| \\_|\\___/  \\_/\\_| |_/ \n\x1b[1;95m   \xf0\x9d\x91\xad\xf0\x9d\x91\xa8\xf0\x9d\x91\xb9\xf0\x9d\x91\xb0\xf0\x9d\x92\x80\xf0\x9d\x91\xa8 \xf0\x9d\x91\xb2\xf0\x9d\x91\xaf\xf0\x9d\x91\xa8\xf0\x9d\x91\xb5 \xf0\x9d\x91\xb6\xf0\x9d\x91\xad\xf0\x9d\x91\xad\xf0\x9d\x91\xb0\xf0\x9d\x91\xaa\xf0\x9d\x91\xb0\xf0\x9d\x91\xa8\xf0\x9d\x91\xb3                  \n\x1b[1;91m<<-------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : FARIYA KHAN   \n\x1b[1;93m\xe2\x9e\xa3 Version  : V1.1.2\n\x1b[1;93m\xe2\x9e\xa3 Facebook : m.facebook.com/Faritricker007\n\x1b[1;93m\xe2\x9e\xa3 Help     : Any Help Contact Me On Facebook.\n\x1b[1;91m<<-------------------------------------------------->>\n                                '
+
 
                                                                     We are INNWA Family
 \033[1;31m1) \033[1;37mUnited States                \033[1;31m31) \033[1;37mMexico                \033[1;31m61) \033[1;37mMoldova
