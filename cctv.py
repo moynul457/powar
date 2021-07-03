@@ -3,6 +3,7 @@
 #github.com/bgmpyaesone0290G
 import requests, re , colorama
 colorama.init()
+os.system('clear')
 print("""
 \n\x1b[1;91m<<-------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : MOYNUL HASSAN   \n\x1b[1;93m\xe2\x9e\xa3 From     : Bogura  \n\x1b[1;93m\xe2\x9e\xa3 FB group : Termux help centre bd \n\x1b[1;93m\xe2\x9e\xa3 Help     : sent sms thcb modaretor moynul hassan.\n\x1b[1;91m<<-------------------------------------------------->>\n"""
 
