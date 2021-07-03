@@ -4,7 +4,7 @@
 import requests, re , colorama
 colorama.init()
 print("""
-
+\n\x1b[1;91m<<-------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : MOYNUL HASSAN   \n\x1b[1;93m\xe2\x9e\xa3 From     : Bogura  \n\x1b[1;93m\xe2\x9e\xa3 FB group : Termux help centre bd \n\x1b[1;93m\xe2\x9e\xa3 Help     : sent sms thcb modaretor moynul hassan.\n\x1b[1;91m<<-------------------------------------------------->>\n"""
 
                                                                     We are INNWA Family
 \033[1;31m1) \033[1;37mUnited States                \033[1;31m31) \033[1;37mMexico                \033[1;31m61) \033[1;37mMoldova
